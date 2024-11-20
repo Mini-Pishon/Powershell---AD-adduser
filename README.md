@@ -51,6 +51,7 @@ $Users = @(
         Password = "Azerty1234$"
     }
 )
+```
 
 ## Warnings
 Default passwords are set in the script. It is recommended to change them to comply with your organization's security policies.
